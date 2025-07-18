@@ -7,7 +7,7 @@
 A clean and ready-to-use Express.js template for building modern server-side applications with minimal setup.
 
 
-## 📦 Installation
+# 📦 Installation
 
 ```bash
 npm i -g express-template-kit
@@ -19,7 +19,7 @@ Then run:
 npx express-template-kit my-app
 ```
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 ```bash
 myApp/
 │
@@ -38,13 +38,15 @@ myApp/
 └── server.js                 # Connect DB and start server
 ```
 
-## ⚙️ Scripts
+
+# ⚙️ Scripts
 | Script        | Description                            |
 | ------------- | -------------------------------------- |
 | `npm run dev` | Starts development server with nodemon |
 | `npm start`   | Starts production server               |
 
-## 🌟 Features
+
+# 🌟 Features
 - ✅ Express.js with ESM module support
 - ✅ dotenv configured for environment variables
 - ✅ Nodemon for live-reloading during development
@@ -53,7 +55,8 @@ myApp/
 - ✅ Scalable and clean architecture
 - ✅ Easy to extend for APIs or full-stack apps
 
-## 🚀 Quick Start Guide
+
+# 🚀 Quick Start Guide
 ```bash
 npx express-template-kit my-app
 cd my-app
@@ -65,7 +68,7 @@ Server will start on: http://localhost:3000/api/v1
 
 You can change the port and other settings in the .env file.
 
-## 🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome! Here's how to contribute:
 
 1. Fork the repository
@@ -74,7 +77,10 @@ Contributions are welcome! Here's how to contribute:
 4. Push to the branch: git push origin feature/your-feature-name
 5. Submit a pull request
 
-## 🧑‍💻 Author
+# 🧑‍💻 Author
 ### Muhammad Tayyeb
 - 🌐 https://mtayyebdev.vercel.app
 - 📧 Contact: Available via portfolio site
+
+# License
+Licensed under MIT

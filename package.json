@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "main": "index.js",
   "bin": {
-    "mt-express": "index.js"
+    "express-template-kit": "index.js"
   },
   "scripts": {
     "start": "node index.js"
